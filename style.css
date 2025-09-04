@@ -91,3 +91,7 @@ ul {
   border-radius: 6px;
   font-size: 0.9rem;
 }
+
+p {
+  margin-bottom: 30px; /* between paragraphs */
+  }
