@@ -11,6 +11,7 @@ body {
   color: #333;
   background-color: #fdfdfd;
   padding: 2rem;
+  margin-bottom: 1.5rem;
 }
 
 .container {
@@ -91,7 +92,3 @@ ul {
   border-radius: 6px;
   font-size: 0.9rem;
 }
-
-p {
-  margin-bottom: 30px; /* between paragraphs */
-  }
